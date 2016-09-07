@@ -1,2 +1,3 @@
 # wp-openweathermap-api
-A WordPress php library for interacting with the Open Weather Map API.
+
+A WordPress php library for interacting with the [Open Weather Map API](https://openweathermap.org/api).
